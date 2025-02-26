@@ -10,8 +10,12 @@ Additionally, we perform a deeper study for the confinement of two ions: we high
 
 ## Ion Confinement
 <p align="center">
-  <img src="figures/2 ions.jpg" alt="Figure 1" width="400"/>
-  <img src="figures/7 ions.jpg" alt="Figure 2" width="400"/>
+  <img src="Figures/2 ions.jpg" alt="Figure 1" width="400"/>
+  <img src="Figures/7 ions.jpg" alt="Figure 2" width="400"/>
+</p>
+
+<p align="center">
+  <img src="Figures/Paul Trap gif.gif alt="Figure 3" width="400"/>
 </p>
 
 ## Comments on use
@@ -24,7 +28,7 @@ Note that most of the .m files are functions used to generate the mesh on the hy
 
 ## Convergence analysis
 
-![Frequency vs Potential](figures/stabilityfinale.jpg)
+![Frequency vs Potential](Figures/stabilityfinale.jpg)
 
 ## References
 
