@@ -15,7 +15,7 @@ Additionally, we perform a deeper study for the confinement of two ions: we high
 </p>  
 
 ## 
-![Alt Text](Figures/Paul Trap gif.gif)
+![Alt Text](Figures/PaulTrapgif.gif)
 
 
 ## Comments on use
