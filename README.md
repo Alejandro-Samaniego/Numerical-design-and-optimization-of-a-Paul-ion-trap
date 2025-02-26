@@ -10,12 +10,12 @@ Additionally, we perform a deeper study for the confinement of two ions: we high
 
 ## Ion Confinement
 <p align="center">
-  <img src="Figures/2 ions.jpg" alt="Figure 1" width="400"/>
-  <img src="Figures/7 ions.jpg" alt="Figure 2" width="400"/>
+  <img src="Figures/2IONES_V=1_W=35000.jpg" alt="Figure 1" width="400"/>
+  <img src="Figures/7iones_V=7_W=62500bb.jpg" alt="Figure 2" width="400"/>
 </p>
 
 <p align="center">
-  <gif src="Figures/Paul Trap gif.gif alt="Figure 3" width="400"/>
+  <img src="Figures/Paul Trap gif.gif alt="Figure 3" width="400"/>
 </p>
 
 ## Comments on use
